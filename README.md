@@ -17,8 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mubingirach" target="blank"><img align="center" src="http://140.238.241.68/linkedin.svg" alt="mohd mubin girach" height="30" width="40" /></a>
 <a href="https://instagram.com/mubingirach" target="blank"><img align="center" src="http://140.238.241.68/instagram.svg" alt="mubingirach" height="30" width="40" /></a>
-<a href="https://medium.com/@girachmubin" target="blank"><img align="center" src="hhttp://140.238.241.68/medium.svg" alt="@girachmubin" height="30" width="40" /></a>
-<a href = "mailto: girachmubin@gmail..com" target="blank"><img align="center" src="hhttp://140.238.241.68/email.svg" alt="girachmubin" height="30" width="40" /></a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
