@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3gentleman-mubingirach&label=Profile%20views&color=0e75b6&style=flat" alt="th3gentleman-mubingirach" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th3gentleman-mubingirach" alt="th3gentleman-mubingirach" /></a> </p>
+
 - 📝 I regularly write articles on [https://girachmubin.medium.com/](https://girachmubin.medium.com/)
 
 - 📫 How to reach me **girachmubin@gmail.com**
+
+- ⚡ Fun fact **I think i am good speaker**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th3gentleman-mubingirach&show_icons=true&locale=en&layout=compact" alt="th3gentleman-mubingirach" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3gentleman-mubingirach&show_icons=true&locale=en" alt="th3gentleman-mubingirach" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th3gentleman-mubingirach&" alt="th3gentleman-mubingirach" /></p>
