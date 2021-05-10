@@ -9,9 +9,7 @@
 
 - ⚡ Fun fact **I think i am people's person**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
